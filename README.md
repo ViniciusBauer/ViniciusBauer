@@ -16,7 +16,3 @@ Sou estudante de Engenharia Elétrica na UTFPR e curto programação, sistemas e
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)
 
 ---
-
-## Sobre Mim
-- 🌱 Atualmente aprendendo: **Machine Learning**, **IoT** e desenvolvimento de **BMS**.
-- 📫 Contato: www.linkedin.com/in/vinícius-bauer
