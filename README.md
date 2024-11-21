@@ -19,5 +19,4 @@ Sou estudante de Engenharia Elétrica na UTFPR e curto programação, sistemas e
 
 ## Sobre Mim
 - 🌱 Atualmente aprendendo: **Machine Learning**, **IoT** e desenvolvimento de **BMS**.
-- 💻 Linguagens favoritas: C, C++ e Python.
 - 📫 Contato: www.linkedin.com/in/vinícius-bauer
