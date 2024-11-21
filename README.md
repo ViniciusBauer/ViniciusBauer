@@ -1,6 +1,6 @@
 # Olá! Eu sou Bauer
 
-Sou estudante de Engenharia Elétrica na UTFPR e apaixonado por programação, sistemas embarcados e desenvolvimento de soluções.
+Sou estudante de Engenharia Elétrica na UTFPR e curto programação, sistemas embarcados e desenvolvimento de soluções.
 
 ---
 
