@@ -10,9 +10,3 @@ Sou estudante de Engenharia Elétrica na UTFPR e curto programação, sistemas e
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
-## 📊 Minhas Estatísticas no GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)
-
----
